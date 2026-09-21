@@ -1,19 +1,9 @@
 # 出入口制图 · 官方下载
 
-[下载最新版本](https://github.com/tecentmooncn/LYMUniversal-Releases/releases/latest)
+[下载最新安装包](https://github.com/tecentmooncn/LYMUniversal-Releases/releases/latest)
 
-此仓库用于发布安装包与更新说明。
+支持 Windows 10/11 x64。进入下载页面，选择 `-setup.exe` 安装程序。
 
-## Windows
+升级和卸载保留用户草稿与应用数据。当前安装包尚未进行发布者代码签名。
 
-支持 Windows 10/11 x64。进入上方下载页面，选择 `-setup.exe` 安装程序；也可下载完整 ZIP 解压运行。
-
-安装到当前用户目录，升级/卸载保留用户草稿与应用数据。校验文件见 `SHA256SUMS.txt`。
-
-当前 Windows 安装包尚未进行发布者代码签名。
-
-## 应用内更新
-
-从 Windows 6.0.0（构建 16）开始，应用启动时会后台检查新版本。发现新版后，可选择“下载更新”，下载并校验完成后选择“退出并安装”，再按安装向导完成覆盖升级。
-
-旧版本用户请先手动安装一次最新版。编辑中的草稿请先正常保存退出，更新不会强制关闭正在编辑的程序。
+此公开仓库仅用于分发安装程序和下载说明，不包含应用源码。
